@@ -14,13 +14,16 @@ TODO: Define terms at the end of chapters
 - aliasing
 - shallow copy
 - deep copy
+- value None
+- type NoneType
 - list comprehension
 - higher-order function
 - set
 - hashable type
 - dictionary
-- keys
-- value
+- dictionary keys
+- dictionary values
+- Access dictionary values
 
 - recursion
 - base case
@@ -51,6 +54,8 @@ TODO: Define terms at the end of chapters
 - persistent bug
 - intermittent bug
 - static semantic error
+- profilers
+- code coverage
 
 - exceptions
 - raising an exception
@@ -70,7 +75,7 @@ TODO: Define terms at the end of chapters
 - method attribute
 - class attributes
 - class instance
-- __ methods
+- \_\_ methods
 - magic (dunder) methods
 - data attribute
 - instance variable
@@ -80,6 +85,7 @@ TODO: Define terms at the end of chapters
 - isinstance
 - encapsulation
 - information hiding
+- linting
 
 ## Technical Review
 
@@ -108,14 +114,11 @@ TODO: To assist in studying, it is recommended to:
 
 #### Write a list comprehension
 
-####
+#### Write an import statement from a package
 
-TODO: provide example of a call to a Python function
+#### Add a counter to a recursive function
 
-### Using the defective function, provide a function call example that would show it is wrong
-
-TODO: You must use a fenced code block to provide a call to the defective Python function
-TODO: You may express this function call example through either a "main function" or a test case
+#### Create simple class
 
 ## Learning Objectives
 
